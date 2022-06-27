@@ -133,3 +133,38 @@ article h2 {
     border: 2px solid #3882f6;
     border-radius: 15px;
 }
+
+/*
+    Testimonial
+*/
+
+.container {
+    background-color: #e5e7eb;
+
+}
+
+.testimonial {
+    height: 600px;
+    width: 750px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonial p {
+    font-family: roboto;
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+    width: 800px;
+    font-weight: 300;
+}
+
+.testimonial h4 {
+    margin-left: auto;
+    font-size: 26px;
+    font-family: roboto;
+    color: #1f2937;
+}
