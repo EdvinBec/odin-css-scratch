@@ -168,3 +168,59 @@ article h2 {
     font-family: roboto;
     color: #1f2937;
 }
+
+/*
+    Call to action
+*/
+
+.call-to-action {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-box {
+    background-color: #3882f6;
+    width: 1000px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.inset {
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-box {
+    display: flex;
+    align-items: center;
+    width: 600px;
+}
+.left-part h4 {
+    font-family: roboto;
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.left-part p {
+    font-family: roboto;
+    font-size: 14px;
+    color: #F9FAF8;
+    margin-top: 7px;
+}
+
+.right-part {
+    margin-left: auto;
+}
+
+.right-part a {
+    text-decoration: none;
+    color: #e5e7eb;
+    border: 2px solid white;
+    padding: 6px 26px;
+    border-radius: 6px;
+}
